@@ -1,0 +1,21 @@
+{
+  "name": "fenda123/phello",
+  "description": "asdasd",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Fenda123\\Phello\\": "src/"
+    },
+    "classmap": [
+      "index.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Heistonezhang",
+      "email": "1506984876@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
