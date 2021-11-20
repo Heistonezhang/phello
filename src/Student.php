@@ -1,6 +1,6 @@
 <?php
 
-namespace fenda123\phello;
+namespace Fenda123\Phello;
 class Student
 {
     function say()
